@@ -1,0 +1,464 @@
+{
+    "1-1": [
+        "Massaaachusett Institute Of Technology",
+        "MIT",
+        "Massachusetts Institute Of Technology",
+        "University Of MIT",
+        "Mass Tech",
+        "MIT University"
+    ],
+    "2-1": [
+        "Stanford University",
+        "Stanford",
+        "\bStanford",
+        "\bStanford University"
+    ],
+    "3-1": [
+        "California Institute Of Technology",
+        "Caltech",
+        "California Institue Of Technology"
+    ],
+    "3-2": [
+        "Harvard University",
+        "Harvard",
+        "Harvard  University",
+        "Harvard SEAS",
+        "Harvard Graduate School Of Arts And Sciences",
+        "Harvard Graduate Schol Of Arts And Sciences"
+    ],
+    "3-3": [
+        "Princeton University",
+        "Princeton",
+        "University Of Princeton",
+        "\bPrinceton University"
+    ],
+    "3-4": [
+        "University Of California, Berekeley",
+        "Berkeley",
+        "UC Berkeley",
+        "University of California Berkeley",
+        "\bUC Berkeley"
+    ],
+    "5-1": [
+        "University of Oxford",
+        "Oxford"
+    ],
+    "5-2":[
+        "University of Cambridge",
+        "Cambridge",
+        "Cambridge  University"
+    ],
+    "7-1": [
+        "Cornell University",
+        "Cornell",        
+        "Cornell  University"
+    ],
+    "7-2": [
+        "University of Chicago",
+        "UChicago",
+        "U Chicago",
+        "Chicago",       
+        "U of Chicago",
+        "The University Of Chicago",
+        "\bUChicago",
+        "\bUniversity Of Chicago"
+    ],
+    "9-1": [
+        "University of Illinois, Urbana Champaign",
+        "UIUC",       
+        "University of Illinois Urbana Champaign",
+        "Illinois at Urbana Champaign",
+        "Illinois Urbana Champaign",
+        "Illinois At Urbana-Champaign",
+        "University of Illinois at Urbana",
+        "UI Urbana",
+        "The University Of Illinois Urbana-Champaign"
+    ],
+    "10-1": [
+        "Columbia University",
+        "Columbia",    
+        "Columbia University GSAS",
+        "Columbia GSAS",
+        "Columbia FFSEAS"
+    ],
+    "10-2": [
+        "University Of California, Santa Barbara",
+        "UCSB",
+        "UC Santa Babara",
+        "University Of California Santa Barbara",
+        "California, Santa Barbara",
+        "Santa Barbara",
+        "The University Of California - Santa Barbara",
+        "\bUniversity Of California Santa Barbara"
+    ],
+    "12-1": [
+        "Yale University",
+        "Yale"
+    ],
+    "13-1": [
+        "University Of Michigan, Ann Arbor",
+        "UMichigan",
+        "Michigan",
+        "University of Michigan",
+        "UM Ann Arbor",
+        "Ann Arbor",
+        "U of Michigan",
+        "University of Michigan at Ann Arbour",       
+        "\bUniversity Of Michigan, Ann Arbor"
+    ],
+    "14-1": [
+        "University Of Colorado, Boulder",
+        "CU Boulder",
+        "University of Colorado Boulder",
+        "Boulder",
+        "The University Of Colorado, Boulder",
+        "The University Of Colorado - Boulder",
+        "Colorado Boulder",
+        "University Of Colorado - Boulder",
+        "\bThe University Of Colorado, Boulder"
+    ],
+    "14-2": [
+        "University of Maryland, College Park",
+        "UMD",
+        "University of Maryland",
+        "Maryland",    
+        "U of Maryland",
+        "University Of Maryland - College Park",
+        "Maryland, College Park",
+        "University Of Maryland College Park",
+        "Maryland - College Park",
+        "\u0e35University Of Maryland - College Park",
+        "\u0e35University Of Maryland"
+    ],
+    "14-3": [
+        "University of Pennsylvania",
+        "UPenn",
+        "The University Of Pennsylvania",
+        "\bThe University Of Pennsylvania"
+    ],
+    "17-1": [
+        "John Hopkins University",
+        "JHU",
+        "Johns Hopkins"  
+    ],
+    "17-2": [
+        "University Of California, Los Angeles",
+        "UCLA",
+        "UC Los Angeles",
+        "The University Of California, Los Angeles",
+        "University Of California Los Angeles",
+        "\bUCLA"
+    ],
+    "17-3": [
+        "University Of California, San Diego",
+        "UCSD",
+        "UC San Diego",
+        "University Of California San Diego",
+        "\bUCSD"
+    ],
+    "17-4": [
+        "University of Texas, Austin",
+        "UT Austin",
+        "University Of Texas At Austin",
+        "\bUniversity Of Texas At Austin"
+    ],
+    "17-5": [
+        "University Of Wisconsin, Madison",
+        "UW Madison",
+        "U of Wisconsin",
+        "Wisconsin",
+        "University of Wisconsin",
+        "University Of Wisconsin - Madison",
+        "University Of Wisconsin- Madison",
+        "\bUniversity Of Wisconsin - Madison"
+    ],
+    "17-6": [
+        "University of British Columbia",
+        "\bUniversity Of British Columbia"
+    ],
+    "17-7":[
+        "Ecole Polytechnique Federale De Lausanne",
+        "Ecole Polytechnique F\u00e9d\u00e9rale De Lausanne"
+    ],
+    "17-8":[
+        "University Of Toronto",
+        "The University Of Toronto"
+    ],
+    "22-1": [
+        "University of Washington, Seattle",
+        "UW Seattle",
+        "University of Washington",
+        "Washington",
+        "\"University Of Washington"
+    ],
+    "23-1": [
+        "Ohio State University",
+        "OSU",
+        "Ohio State",
+        "The Ohio State University",
+        "Ohio State Univ."
+    ],
+    "23-2": [
+        "SUNY Stony Brook",
+        "Stony Brook",
+        "Stony Brook State University",
+        "SUNY",
+        "State University New York"
+    ],
+    "25-1": [
+        "Northwestern University",
+        "Northwestern"
+    ],
+    "25-2": [
+        "Pennsylvania State University",
+        "PSU",
+        "Penn State",
+        "Penn State Univ"
+    ],
+    "25-3": [
+        "University Of Minnesota, Twin Cities",
+        "University of Minnesota",
+        "U of Minnesota",
+        "University Of Minnesota - Twin Cities",
+        "University Of Minnesota Twin Cities",
+        "University  Of Minnesota, Twin Cities",
+        "\bUniversity Of Minnesota - Twin Cities"
+    ],
+    "28-1": [
+        "Duke University",
+        "Duke",
+        "\bDuke University"
+    ],
+    "28-2": [
+        "Georgia Institute Of Technology",
+        "GaTech",
+        "Georgia Tech",
+        "Georgia  Institute Of Technology"
+    ],
+    "28-3": [
+        "Michigan State University",
+        "Michigan State",
+        "Michigan State  University"
+    ],
+    "28-4": [
+        "Rice University",
+        "Rice",
+        "Rice \uff35niversity"
+    ],
+    "28-5": [
+        "Rutgers University",
+        "Rutgers",
+        "\bRutgers"
+    ],
+    "28-6": [
+        "University Of California, Davis",
+        "UC Davis",
+        "University Of California Davis",
+        "\bUC Davis"
+    ],
+    "28-7": [
+        "University Of California, Irvine",
+        "UCI",
+        "UC Irvine",
+        "The University Of California Irvine",
+        "\bUC Irvine",
+        "\u00d9niversity Of California, Irvine"
+    ],
+    "28-8": [
+        "McGill University"
+    ],
+    "35-1": [
+        "Carnegie Mellon University",
+        "Carnegie Mellon",
+        "Carnegie Mellon  University",
+        "CMU",
+        "Carnegie  Mellon University"
+    ],
+    "35-2": [
+        "Brown University",
+        "Brown",
+        "Brown University Graduate School"
+    ],
+    "37-1": [
+        "Boston University",
+        "\u200cBoston University"
+    ],
+    "37-2": [
+        "New York University",
+        "NYU"       
+    ],
+    "37-3": [
+        "Purdue University",
+        "\bPurdue University",
+        "Purdue University&#8211;West Lafayette"
+    ],
+    "37-4": [
+        "University of Arizona",
+        "U of Arizona",
+        "The University Of Arizona",
+        "\bThe University Of Arizona"
+    ],
+    "37-5": [
+        "University Of California, Santa Cruz",
+        "UCSC",
+        "UC Santa Cruz",
+        "The University Of California, Santa Cruz"
+    ],
+    "37-6": [
+        "University of Florida",
+        "Univ Of Florida"
+    ],
+    "37-7": [
+        "Indiana University, Bloomington",
+        "Indiana",
+        "Indiana University",
+        "Indiana University Bloomington"
+    ],
+    "44-1": [
+        "Arizona State University",
+        "Arizona State",
+        "(Arizona State University) ASU"
+    ],
+    "44-2": [
+        "University Of Rochester",
+        "Rochester"        
+    ],
+    "44-3": [
+        "University of Virginia"
+    ],
+    "47-1": [
+        "Texas A&M University",
+        "TAMU",
+        "Texas A&M University - College Station"
+    ],
+    "47-2": [
+        "University Of North Carolina, Chapel Hill",
+        "UNC Chapel Hill",
+        "University Of North Carolina",
+        "North Carolina"
+    ],
+    "47-3": [
+        "University of Pittsburg",
+        "Pittsburg",
+        "\bUniversity Of Pittsburgh"
+    ],
+    "52-1": [
+        "University Of Notre Dame",
+        "Notre Dame",
+        "NotreDame",
+        "The University Of Notre Dame"
+    ],
+    "52-2": [
+        "Vanderbilt University",
+        "Vanderbilt"
+    ],
+    "56-1": [
+        "University Of California, Riverside",
+        "UC Riverside",
+        "University Of California Riverside",
+        "\bUC Riverside"
+    ],
+    "56-2": [
+        "University Of Massachusetts, Amherst",
+        "UMass Amherst",
+        "UMass Amherst / University Of Massachusetts Amherst"        
+    ],
+    "56-3": [
+        "University of Oregon",
+        "\bUniversity Of Oregon"
+    ],
+    "56-4": [
+        "Rensselear Polytechnic Institute"
+    ],
+    "56-5": [
+        "Northeastern University"
+    ],
+    "61-1": [
+        "Case Western Reserve University",
+        "Case Western"
+    ],
+    "61-2": [
+        "Dartmouth College"
+    ],
+    "61-3": [
+        "University of Iowa",
+        "The University Of Iowa",
+        "U Of Iowa"
+    ],
+    "61-4": [
+        "University of Southern California",
+        "The University Of Southern California",
+        "\bThe University Of Southern California"
+    ],
+    "61-5": [
+        "University Of Central Florida",
+        "\u0e35\u0e37University Of Central Florida"
+    ],
+    "69-1": [
+        "Syracuse University"
+    ],
+    "71-1": [
+        "University of Delaware",
+        "U of Delaware"
+    ],
+    "71-2": [
+        "Emory University",
+        "Emory",
+        "\u0948Emory University"       
+    ],
+    "71-3": [
+        "Boston College"
+    ],
+    "71-4": [
+        "University Of Nebraska Lincoln"
+    ],
+    "71-5": [
+        "CUNY Graduate School and University Center"
+    ],
+    "71-6": [
+        "Colorado School of Mines"
+    ],
+    "71-7": [
+        "Colorado State University",
+        "\bColorado State University"
+    ],
+    "83-1": [
+        "Tufts University",
+        "Tufts U"
+    ],
+    "83-2": [
+        "University of New Mexico",
+        "The University Of New Mexico"
+    ],
+    "83-3": [
+        "Washington State University"
+    ],
+    "91-1": [
+        "SUNY Buffalo",
+        "(SUNY) University At Buffalo"
+    ],
+    "91-2": [
+        "The University Of Missouri Columbia"
+    ],
+    "91-3": [
+        "University Of Maryland, Baltimore County",
+        "University Of Maryland - Baltimore County",
+        "\u0e35University Of Maryland - Baltimore County"
+    ],
+    "100-1": [
+        "Lehigh Univeristy",
+        "Lehigh"        
+    ],
+    "100-2": [
+        "University Of Kentucky",
+        "Kentucky",
+        "\bUniversity Of Kentucky",
+        "\bUniversity Of Kentucky, Lexington"
+    ],
+    "100-3": [
+        "University Of New Hampshire"
+    ],
+    "100-4": [
+        "Temple University"
+    ]
+}

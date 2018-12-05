@@ -1,0 +1,35 @@
+{%  extends "layout.html" %}
+ {%  block title %}Home{%  endblock %}
+ {%  block content %}
+    <h1><a href="/">Home</a></h1>
+    <p>Please enter your GPA and GRE scores below, and this app will tell you which tier of grad schools you are likely to get into.</p>
+    <form action="/result">
+        GPA: (Please enter a number between 2.00 and 4.00)<br>
+        <input type="text" name="gpa" value= "{{request.args['gpa']}}">
+        <br>
+        GRE- Verbal: (Please enter an integer between 130 and 170)<br>
+        <input type="number" name="v" value='{{request.args["v"]}}'>
+        <br>
+        GRE- Quntitative: (Please enter an integer between 130 and 170)<br>
+        <input type="number" name="q" value='{{request.args["q"]}}'>
+        <br>
+        GRE- Writing: (Please enter a number between 0 and 6.0)<br>
+        <input type="text" name="w" value='{{request.args["w"]}}'>
+        <br>
+        GRE- Physics: (Please enter an integer between 200 and 990)<br>
+        <input type="number" name="p" value='{{request.args["p"]}}'>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <p>After submitting your scores, you will be directed to a new page to view your results.</p>
+    <div style="color: red">{{ errors | safe }}</div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h6>
+        Raw data from:<br>
+        <a href="https://www.thegradcafe.com/survey/index.php?q=Physics">thegradcafe.com</a><br>
+        <a href="http://www.physicsgre.com/viewforum.php?f=3&sid=553af0cce4176405544d853e1ed1a0a1">physicsgre.com</a>
+    </h6>
+ {%  endblock %}
